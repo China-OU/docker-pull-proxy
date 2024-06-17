@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tangpf/docker.hub/xuxueli/xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tangpf/docker_hub/xuxueli/xxl-job-admin:2.4.0
