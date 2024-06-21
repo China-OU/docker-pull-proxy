@@ -1,1 +1,3 @@
-xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tangpf/tpf-public/xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tpf-public/xxl-job-admin:2.4.0
+
+xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tangpf/xxl-job-admin:2.4.0
