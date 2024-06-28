@@ -1,2 +1,1 @@
-pantsel/konga:latest registry.cn-shenzhen.aliyuncs.com/tangpf/konga:latest
-xuxueli/xxl-job-admin:2.4.0 registry.cn-shenzhen.aliyuncs.com/tangpf/xxl-job-admin:2.4.0
+rancher/rancher:v2.6.14 registry.cn-shenzhen.aliyuncs.com/tangpf/rancher/rancher:v2.6.14
