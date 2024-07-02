@@ -1,3 +1,1 @@
-rancher/rancher-agent:v2.6.14 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher-agent:v2.6.14
-rancher/shell:v0.1.19 registry.cn-hangzhou.aliyuncs.com/tangpf/shell:v0.1.19
-rancher/mirrored-coredns-coredns:1.9.4 registry.cn-hangzhou.aliyuncs.com/tangpf/mirrored-coredns-coredns:1.9.4
+rancher/rancher:v2.7.6 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher:v2.7.6
