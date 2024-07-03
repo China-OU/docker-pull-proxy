@@ -1,1 +1,5 @@
-rancher/rancher-agent:v2.7.6 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher-agent:v2.7.6
+quay.io/jetstack/cert-manager-controller:v1.5.4 registry.cn-hangzhou.aliyuncs.com/tangpf/jetstack/cert-manager-controller:v1.5.4
+quay.io/jetstack/cert-manager-cainjector:v1.5.4 registry.cn-hangzhou.aliyuncs.com/tangpf/jetstack/cert-manager-cainjector:v1.5.4
+quay.io/jetstack/cert-manager-webhook:v1.5.4 registry.cn-hangzhou.aliyuncs.com/tangpf/jetstack/cert-manager-webhook:v1.5.4
+quay.io/jetstack/cert-manager-ctl:v1.5.4 registry.cn-hangzhou.aliyuncs.com/tangpf/etstack/cert-manager-ctl:v1.5.4
+harbor-coi.crctrust.com/rancher/shell:v0.1.20 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher/shell:v0.1.20
