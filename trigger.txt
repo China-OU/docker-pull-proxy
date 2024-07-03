@@ -1,1 +1,1 @@
-rancher/rancher:v2.7.6 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher:v2.7.6
+rancher/rancher-agent:v2.7.6 registry.cn-hangzhou.aliyuncs.com/tangpf/rancher-agent:v2.7.6
