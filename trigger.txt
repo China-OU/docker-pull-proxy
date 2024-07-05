@@ -1,2 +1,2 @@
-rancher/fleet-agent:0.7.1 registry.cn-hangzhou.aliyuncs.com/tangpf/fleet-agent:0.7.1
+rancher/fleet-agent:v0.7.1 registry.cn-hangzhou.aliyuncs.com/tangpf/fleet-agent:v0.7.1
 
