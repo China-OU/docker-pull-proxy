@@ -1,1 +1,1 @@
-rancher/shell:v0.1.18 registry.cn-hangzhou.aliyuncs.com/tangpf/shell:v0.1.18
+rancher/ui-plugin-operator:v0.1.1 registry.cn-hangzhou.aliyuncs.com/tangpf/ui-plugin-operator:v0.1.1
