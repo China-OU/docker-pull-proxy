@@ -1,1 +1,1 @@
-apache/dolphinscheduler:1.3.6 registry.cn-hangzhou.aliyuncs.com/tangpf/apache/dolphinscheduler:1.3.6
+apache/dolphinscheduler:1.3.6 registry.cn-hangzhou.aliyuncs.com/tangpf/dolphinscheduler:1.3.6
