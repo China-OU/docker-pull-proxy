@@ -1,2 +1,1 @@
-bitnami/postgresql:12 registry.cn-hangzhou.aliyuncs.com/tangpf/postgresql:12
-bitnami/zookeeper:3.5 registry.cn-hangzhou.aliyuncs.com/tangpf/zookeeper:3.5
+artalk/artalk-go registry.cn-hangzhou.aliyuncs.com/tangpf/artalk/artalk-go
