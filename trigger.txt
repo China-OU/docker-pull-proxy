@@ -1,1 +1,1 @@
-artalk/artalk-go registry.cn-hangzhou.aliyuncs.com/tangpf/artalk/artalk-go
+artalk/artalk-go registry.cn-hangzhou.aliyuncs.com/tangpf/artalk-go
