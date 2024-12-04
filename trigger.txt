@@ -1,1 +1,1 @@
-artalk/artalk-go registry.cn-hangzhou.aliyuncs.com/tangpf/artalk-go
+nginx:latest registry.cn-hangzhou.aliyuncs.com/tangpf/latest
